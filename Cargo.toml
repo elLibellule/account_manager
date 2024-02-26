@@ -1,5 +1,5 @@
 [package]
-name = "account_manager"
+name = "bank_account_rust_cli"
 version = "0.1.0"
 edition = "2021"
 
